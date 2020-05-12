@@ -4,7 +4,7 @@
   "description": "A S3 proxy",
   "main": "api/imageflow.js",
   "author": "anshul goyal",
-  "license": "AGPL3",
+  "license": "AGPL-3.0-or-later",
   "private": false,
   "dependencies": {
     "@imazen/imageflow": "^0.0.1-rc3",
