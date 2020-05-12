@@ -1,0 +1,13 @@
+{
+  "name": "imageflow-now",
+  "version": "1.0.0",
+  "description": "A S3 proxy",
+  "main": "api/imageflow.js",
+  "author": "anshul goyal",
+  "license": "AGPL3",
+  "private": false,
+  "dependencies": {
+    "@imazen/imageflow": "^0.0.1-rc3",
+    "aws-sdk": "^2.673.0"
+  }
+}

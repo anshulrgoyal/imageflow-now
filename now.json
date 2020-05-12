@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/api/imageflow/(?<path>.*)",
+      "dest": "/api/imageflow?imageflow_path=$path"
+    }
+  ]
+}
