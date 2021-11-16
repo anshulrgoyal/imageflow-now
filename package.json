@@ -8,6 +8,6 @@
   "private": false,
   "dependencies": {
     "@imazen/imageflow": "^0.0.1-rc3",
-    "aws-sdk": "^2.673.0"
+    "aws-sdk": "^2.814.0"
   }
 }
